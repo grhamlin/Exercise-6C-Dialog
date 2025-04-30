@@ -8,6 +8,7 @@ TagManager:
   - npc
   - NPC1
   - NPC2
+  - Statue
   layers:
   - Default
   - TransparentFX
