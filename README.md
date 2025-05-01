@@ -7,20 +7,20 @@ An opportunity for you to practice all the things we have learned throughout the
 - Models + Animations: Mixamo.com
 
 # Grading
-[1] On Time
-[1] Repo Contains README
-[1] No Syntax Errors
-[1] No Runtime Errors
-[2] Contains a user-controlled third-person character
-[1] Camera follows the movement of the player
-[2] Player's model is animated with 1 additional mixamo animation
-[1] Includes one AI agent
-[3] Includes Dialogue with an agent
-[1] Reports a score
-[1] Includes obstacles or terrain
-[1] Inludes an item that the player can influence/pick up
-[2] The Game has a clear objective
-[2] Adds Interesting Features
+- [1] On Time
+- [1] Repo Contains README
+- [1] No Syntax Errors
+- [1] No Runtime Errors
+- [2] Contains a user-controlled third-person character
+- [1] Camera follows the movement of the player
+- [2] Player's model is animated with 1 additional mixamo animation
+- [1] Includes one AI agent
+- [3] Includes Dialogue with an agent
+- [1] Reports a score
+- [1] Includes obstacles or terrain
+- [1] Inludes an item that the player can influence/pick up
+- [2] The Game has a clear objective
+- [2] Adds Interesting Features
 
 # Explanations
 - I changed the players model and added an NPC model (that I chose because it looked funny)
@@ -46,7 +46,7 @@ An opportunity for you to practice all the things we have learned throughout the
 - This assignment was less about creating the most compelling story (if that wasn't obvious) and more about show casing the skills I've learned fairly quickly
 
 # Final Thoughts
-Thank you for a great semester!!! I learned so much is such a short amount of time, it didn't even feel possible going in. I loved the course! Can't wait for next year!
+- Thank you for a great semester!!! I learned so much is such a short amount of time, it didn't even feel possible going in. I loved the course! Can't wait for next year!
 
 
 # Created by 
