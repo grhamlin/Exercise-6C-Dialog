@@ -2,9 +2,9 @@
 An opportunity for you to practice all the things we have learned throughout the semester, into a 3D game. 
 
 # References
-Music: https://downloads.khinsider.com/game-soundtracks/album/underwater-attack-2008-nds-gamerip/02%2520-%2520Ms%2520Menu.mp3
-Bubble Sound: https://pixabay.com/sound-effects/search/bubble/
-Models + Animations: Mixamo.com
+- Music: https://downloads.khinsider.com/game-soundtracks/album/underwater-attack-2008-nds-gamerip/02%2520-%2520Ms%2520Menu.mp3
+- Bubble Sound: https://pixabay.com/sound-effects/search/bubble/
+- Models + Animations: Mixamo.com
 
 # Grading
 [1] On Time
