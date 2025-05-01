@@ -50,4 +50,4 @@ An opportunity for you to practice all the things we have learned throughout the
 
 
 # Created by 
-Griffith Hamlin
+- Griffith Hamlin
