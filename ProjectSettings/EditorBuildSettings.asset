@@ -6,8 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/StartMenu.unity
+    guid: 866f4a2d85583544fa12fd2e3c483448
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 934edefe571a0cc409c140406d9ccc5c
+  - enabled: 1
+    path: Assets/Scenes/EndMenu - NoEat.unity
+    guid: ae31714e5d1c9084eb05ddb211d6e7bb
+  - enabled: 1
+    path: Assets/Scenes/EndMenu - DidEat.unity
+    guid: 644c33ded1713e84499ba65760bc5e32
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7,
       type: 2}

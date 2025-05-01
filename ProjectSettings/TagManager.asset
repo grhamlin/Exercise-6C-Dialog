@@ -9,6 +9,9 @@ TagManager:
   - NPC1
   - NPC2
   - Statue
+  - Coins
+  - PlaceZone
+  - RespawnZone
   layers:
   - Default
   - TransparentFX
